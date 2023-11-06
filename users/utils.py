@@ -21,7 +21,7 @@ def create_user(data):
     user_data['id'] = user_id
     users[user_id] = user_data
 
-    with open('/storage/users.json', 'w') as file:
+    with open('D:\\server\\storage\\users.json', 'w') as file:
         json.dump(users, file, default=str)
 
     return user_data

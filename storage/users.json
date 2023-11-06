@@ -1,1 +1,22 @@
-{"4f1bbdc1-605b-4383-b2e9-1ec12075e33e": {"name": "GabrielC", "password": "test1234", "id": "4f1bbdc1-605b-4383-b2e9-1ec12075e33e"}}
+{
+  "4f1bbdc1-605b-4383-b2e9-1ec12075e33e": {
+    "name": "GabrielC",
+    "password": "test1234",
+    "id": "4f1bbdc1-605b-4383-b2e9-1ec12075e33e"
+  },
+  "ea26c286-37c7-47b8-9502-6917c877d9f9": {
+    "name": "Jax",
+    "password": "parola1234",
+    "id": "ea26c286-37c7-47b8-9502-6917c877d9f9"
+  },
+  "ddd52e98-b75a-4c55-902b-ebcd1d3feb47": {
+    "name": "Petro",
+    "password": "parola1234",
+    "id": "ddd52e98-b75a-4c55-902b-ebcd1d3feb47"
+  },
+  "73c2c017-b956-42a6-801c-ef2ee0fc2fdd": {
+    "name": "Sergio",
+    "password": "parola1234",
+    "id": "73c2c017-b956-42a6-801c-ef2ee0fc2fdd"
+  }
+}
