@@ -1,8 +1,8 @@
-from typing import Union
-from users.users import users_router
+from fastapi import FastAPI
+
 from contacts.contacts import contacts_router
 from discussions.discussions import discussions_router
-from fastapi import FastAPI
+from users.users import users_router
 
 app = FastAPI()
 
